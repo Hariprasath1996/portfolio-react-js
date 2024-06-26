@@ -7,10 +7,10 @@ const SkillContainer = () => {
     return (
         <Element className='skillContainer w-screen   flex justify-evenly items-center  bg-black text-white ' id='skills'>
             <div className='skill-img w-2/5 '>
-                <img className='' src="https://www.barraiser.com/wp-content/uploads/2024/02/most-demanded-developer-skill-in-2024.png" width={850} height={450} alt="skill-image" />
+                <img className='rounded-none' src="https://img.freepik.com/free-photo/view-3d-man-using-laptop_23-2150709796.jpg" width={850} height={450} alt="skill-image" />
             </div> 
-            <div className='Skill-set w-3/5 p-8'>
-                <div className='skill-heading  flex mb-4  '>
+            <div className='Skill-set w-3/5 p-8 '>
+                <div className='skill-heading  mb-4 font-serif  font-bold text-3xl text-orange-600 hover:text-white w-48 flex justify-center cursor-pointer rounded '>
                     Skill_SET
                 </div>
             <div className='skill-details'>
