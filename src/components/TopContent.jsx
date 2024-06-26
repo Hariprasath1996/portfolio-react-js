@@ -13,7 +13,7 @@ const TopContent = () => {
                     </button>
                 </a>
                 <Link to='projects' smooth={true} duration={500}>
-                    <button className='btn-work p-2 ml-4 text-xl border-2 border-white hover:border-2 hover:border-orange-600 bg-orange-600 text-white hover:text-orange-600 rounded hover:bg-white' >
+                    <button className='btn-work p-2 ml-4 text-xl  border-2 border-white hover:border-2 hover:border-orange-600 bg-orange-600 text-white hover:text-orange-600 rounded hover:bg-white' >
                         My Work
                     </button>
                 </Link>
