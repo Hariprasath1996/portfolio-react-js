@@ -3,7 +3,7 @@ import { Link } from 'react-scroll'
 
 const Header = () => {
     return (
-        <div className='Header flex  w-screen h-auto p-2 m-0 justify-around bg-zinc-900 font-serif  '>
+        <div className='Header flex  w-screen h-auto p-2 m-0 justify-around bg-zinc-900 font-serif sticky top-0 z-50  '>
             <div className='header-left w-2/5 pl-10 flex items-center'>
                 <h1 className='heading text-4xl text-white '>Develop<span className='span text-orange-600'>er</span></h1>
             </div>
