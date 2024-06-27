@@ -37,7 +37,7 @@ const ProjectContainer = () => {
     ]
 
     return (
-        <Element className='pro-container w-screen bg-black text-white p-8 ' id='projects'>
+        <Element className='pro-container w-screen bg-black text-white p-8  ' id='projects'>
             <h1 className=  'text-orange-700 flex justify-center text-4xl font-bold font-serif p-4'>Projects</h1>
             <p className='text-orange-700 flex justify-center text-3xl font-bold font-serif p-4 my-2'>Here Are Some projects Which I done...</p>
             <div className='pro w-full flex flex-wrap justify-evenly '>

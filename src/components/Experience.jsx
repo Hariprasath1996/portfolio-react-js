@@ -2,8 +2,6 @@
 import React from 'react'
 import { Element } from 'react-scroll'
 
-
-
 const Experience = () => {
     return (
         <Element className='Exp-container w-screen  bg-black text-white py-8 ' id='exp'>
@@ -14,6 +12,8 @@ const Experience = () => {
                 <div className='w-64 border-dotted cursor-pointer border-2 border-stone-200  bg-white text-orange-600 font-serif font-bold text-xl flex justify-center flex-col items-center p-2'> Full Stack Web Development Course Certificate </div>
             </div>
         </Element>
+
+
     )
 }
 
