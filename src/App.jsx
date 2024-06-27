@@ -4,6 +4,7 @@ import TopContainer from "./components/TopContainer";
 import SkillContainer from "./components/SkillContainer";
 import ProjectContainer from "./components/ProjectContainer";
 import Experience from "./components/Experience";
+import Contact from "./components/Contact";
 
 const App = () => {
   return (<>
@@ -13,6 +14,7 @@ const App = () => {
       <SkillContainer/>
       <ProjectContainer/>
       <Experience/>
+      <Contact/>
     </div>
   </>);
 }
