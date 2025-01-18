@@ -8,7 +8,7 @@ const Contact = () => {
             <h1 className='contact my-2 text-orange-600 text-5xl font-serif flex justify-center'>Contact</h1>
             <div className=' w-96  bg-back text-white flex flex-col justify-center items-center border-2 border-indigo-800 m-8 py-12 gap-4 '>
                 <div className='person-details my-4 font-serif'>
-                    <h2 className='p-4 text-xl ' >Email : <span className='text-orange-600'>hasathphy96@gmail.com</span></h2>
+                    <h2 className='p-4 text-xl ' >Email : <span className='text-orange-600'>hasath96@gmail.com</span></h2>
                     <h2 className='p-4 text-xl '>Github UserName : <span className='text-orange-600'>Hariprasath1996</span></h2>
                 </div>
                 <div className='contact-icons text-white text-xl flex justify-evenly  '>
